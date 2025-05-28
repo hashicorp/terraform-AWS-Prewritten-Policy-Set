@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: BUSL-1.1
+
 variable "tfe_organization" {
   description = "The TFE organization where Sentinel based policy sets will be created. These policies will run against all the workspaces present in the organization"
   type        = string
