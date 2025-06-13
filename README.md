@@ -1,3 +1,5 @@
+:rotating_light: Deprecation Notice :rotating_light:
+
 This repository will be deprecated by **06/20/2025** and will no longer be maintained post that.
 
 Thank you for your understanding and support!
