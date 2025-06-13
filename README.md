@@ -1,3 +1,13 @@
+# 🚨 Deprecation Notice 🚨
+
+This repository will be **deprecated on June 20, 2025**, and will no longer be maintained after that date.
+
+To access the most up-to-date and comprehensive set of policies, please refer to the official guide below:
+
+🔹 [Policy Consumption Guide](https://registry.terraform.io/policies/hashicorp/CIS-Policy-Set-for-AWS-Terraform/1.0.1#consuming-pre-written-sentinel-policies-for-cis-aws-foundations-benchmark) – Learn how to discover and enforce the latest generally available (GA) Sentinel policies.
+
+Thank you for your continued support and understanding.
+
 ## Terraform Module to onboard Pre-written Sentinel Policies for AWS Foundations Benchmark
 
 This repository contains the Terraform module for pre-written policies, designed to streamline the onboarding of pre-written Sentinel policies into your Terraform environment. This module enables the creation of `Policy Sets` for pre-written Sentinel policies for AWS Foundations Benchmark, ensuring consistent compliance and governance across your Terraform workflows.
