@@ -1,3 +1,10 @@
+# 🚨 Deprecation Notice 🚨
+
+This module will be **deprecated on July 11, 2025**, and will no longer be maintained after that date.  
+You may continue to use the pre-written policies via the [Terraform Public Registry](https://registry.terraform.io/search/policies?q=pre-written).   
+
+Thank you for your continued support and understanding.
+
 ## Terraform Module to onboard Pre-written Sentinel Policies for AWS Foundations Benchmark
 
 This repository contains the Terraform module for pre-written policies, designed to streamline the onboarding of pre-written Sentinel policies into your Terraform environment. This module enables the creation of `Policy Sets` for pre-written Sentinel policies for AWS Foundations Benchmark, ensuring consistent compliance and governance across your Terraform workflows.
