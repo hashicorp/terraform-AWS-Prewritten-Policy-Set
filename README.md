@@ -1,10 +1,7 @@
 # 🚨 Deprecation Notice 🚨
 
-This repository will be **deprecated on June 20, 2025**, and will no longer be maintained after that date.
-
-To access the most up-to-date and comprehensive set of policies, please refer to the official guide below:
-
-🔹 [Policy Consumption Guide](https://registry.terraform.io/policies/hashicorp/CIS-Policy-Set-for-AWS-Terraform/1.0.1#consuming-pre-written-sentinel-policies-for-cis-aws-foundations-benchmark) – Learn how to discover and enforce the latest generally available (GA) Sentinel policies.
+This module will be **deprecated on July 11, 2025**, and will no longer be maintained after that date.  
+You may continue to use the pre-written policies via the [Terraform Public Registry](https://registry.terraform.io/search/policies?q=pre-written).   
 
 Thank you for your continued support and understanding.
 
